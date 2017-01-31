@@ -2,7 +2,7 @@
   "name": "ndv",
   "version": "0.0.0",
   "description": "site dedicated to visualization of policy data",
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/xwiaz/news_data_viz_r.git"
   },
@@ -10,6 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.1"
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0"
   }
 }
