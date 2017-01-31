@@ -7,8 +7,12 @@
 tmp.*
 *.txt
 
+.sass-cache
+
 dev/img
 dev/**/img
+
+distro
 
 node_modules
 
