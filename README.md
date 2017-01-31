@@ -5,7 +5,7 @@ Primary means of analysis is data visualization
 
 site uses D3 JS for visulizations
 
-built with Git, Gulp, PostCSS ...
+built with Git, Gulp, SASS ...
 
 sources :
 
